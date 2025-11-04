@@ -130,8 +130,8 @@ display(total_amount_spent_by_customer)
 ---
 
 ## 🪶 Author
+Chanush KR
 
-👤 Chanush KR
-🔗 Data Analyst | Aspiring Azure Data Engineer | Aspiring PySpark Developer
-LinkedIn: (https://www.linkedin.com/in/chanush-kr/)
-GitHub Link: (https://github.com/Chanushkr/PySpark_Projects/tree/main/Project%201%20-%20Sales%20Analysis)
+🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
+🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
+📌 [LinkedIn Post about this Project](https://www.linkedin.com/posts/chanush-kr_azuredatafactory-dataengineering-azuredatalake-activity-7378763608350179328-RKsp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0Tw64BmW6pg1qf8-1ow9qOM-2tCEyFJRw).
