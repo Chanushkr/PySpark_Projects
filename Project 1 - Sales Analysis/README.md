@@ -85,7 +85,7 @@ total_amount_spent_by_customer = (
 
 display(total_amount_spent_by_customer)
 
-```python
+```
 ---
 
 ## 💡 Key Learnings
