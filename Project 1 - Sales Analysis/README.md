@@ -118,12 +118,10 @@ display(total_amount_spent_by_customer)
 
 ## 🏁 Project Structure
 📂 sales_insights_project/
+
  ├── 📄 sales.csv
-
  ├── 📄 menu.csv
-
  ├── 📓 sales_insights_notebook.dbc
-
  ├── 📄 README.md
 
 
