@@ -70,6 +70,7 @@ Below are the key performance indicators derived from the datasets 👇
 
 
 🖼️ Note: 
+
 Each KPI in the Databricks notebook is accompanied by a corresponding output table and visualization, making it easier to interpret the results at a glance.
 ---
 
