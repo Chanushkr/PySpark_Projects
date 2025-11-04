@@ -69,9 +69,8 @@ Below are the key performance indicators derived from the datasets 👇
 | 🛵 **Total Sales by Order Source** | Groups total sales by `Source_Order` (e.g., Swiggy, Zomato, Restaurant). |
 
 
-🖼️ Note: 
-
-Each KPI in the Databricks notebook is accompanied by a corresponding output table and visualization, making it easier to interpret the results at a glance.
+### 🖼️ Note:
+- Each KPI in the Databricks notebook is accompanied by a corresponding output table and visualization, making it easier to interpret the results at a glance.
 ---
 
 ## 📈 Sample Snippet
